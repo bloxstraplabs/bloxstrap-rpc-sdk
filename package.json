@@ -1,0 +1,21 @@
+{
+	"name": "@rbxts/bloxstrap-rpc",
+	"version": "1.0.1-ts.1",
+	"description": "Bloxstrap RPC helper library",
+	"main": "src/init.lua",
+	"scripts": {},
+	"keywords": [
+		"bloxstrap"
+	],
+	"author": "pizzaboxer",
+	"license": "MIT",
+	"publishConfig": {
+		"access": "public"
+	},
+	"types": "types.d.ts",
+	"devDependencies": {},
+	"files": [
+		"src",
+		"types.d.ts"
+	]
+}

@@ -1,0 +1,12 @@
+[package]
+name = "pizzaboxer/bloxstrap-rpc-helper"
+description = "Bloxstrap RPC helper library"
+authors = ["pizzaboxer"]
+version = "1.0.1"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["**"]
+include = ["src**", "default.project.json", "wally.lock", "wally.toml"]
+
+[dependencies]

@@ -1,0 +1,6 @@
+{
+	"name": "bloxstrap-rpc-helper",
+	"tree": {
+		"$path": "src"
+	}
+}

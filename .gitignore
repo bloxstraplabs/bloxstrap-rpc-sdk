@@ -1,0 +1,6 @@
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+*.rbxm
+*.rbxmx
+*.tar.gz
