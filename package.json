@@ -1,7 +1,7 @@
 {
-	"name": "@rbxts/bloxstrap-rpc",
-	"version": "1.0.1-ts.1",
-	"description": "Bloxstrap RPC helper library",
+	"name": "@rbxts/bloxstrap-rpc-sdk",
+	"version": "1.0.1",
+	"description": "Bloxstrap RPC SDK library",
 	"main": "src/init.lua",
 	"scripts": {},
 	"keywords": [
