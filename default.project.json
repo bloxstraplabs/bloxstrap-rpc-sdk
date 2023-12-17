@@ -1,5 +1,5 @@
 {
-	"name": "bloxstrap-rpc-helper",
+	"name": "bloxstrap-rpc-sdk",
 	"tree": {
 		"$path": "src"
 	}
