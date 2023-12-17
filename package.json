@@ -13,6 +13,11 @@
 		"access": "public"
 	},
 	"types": "types.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bloxstraplabs/bloxstrap-rpc-sdk.git"
+	},
+	"homepage": "https://github.com/pizzaboxer/bloxstrap/wiki/Integrating-Bloxstrap-functionality-into-your-game",
 	"devDependencies": {},
 	"files": [
 		"src",
