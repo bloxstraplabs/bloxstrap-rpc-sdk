@@ -1,9 +1,9 @@
 --!strict
 
--- BloxstrapRPC SDK Module v1.0.1
+-- BloxstrapRPC SDK Module v1.1.0
 -- Written by pizzaboxer (@xtremeguy2256) and Epix (@ElusiveEpix)
--- Types reflected from https://github.com/pizzaboxer/bloxstrap/tree/main/Bloxstrap/Models/BloxstrapRPC
--- Further documentation is available at https://github.com/pizzaboxer/bloxstrap/wiki/Integrating-Bloxstrap-functionality-into-your-game
+-- Types reflected from https://github.com/bloxstraplabs/bloxstrap/tree/main/Bloxstrap/Models/BloxstrapRPC
+-- Further documentation is available at https://github.com/bloxstraplabs/bloxstrap/wiki/Integrating-Bloxstrap-functionality-into-your-game
 
 local HttpService = game:GetService("HttpService")
 
