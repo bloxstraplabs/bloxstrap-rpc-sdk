@@ -19,6 +19,7 @@ declare namespace BloxstrapRPC {
 declare interface BloxstrapRPC {
 	SendMessage: (command: string, data: any) => void;
 	SetRichPresence: (data: BloxstrapRPC.RichPresence) => void;
+	SetLaunchData: (data: string) => void;
 }
 
 declare const BloxstrapRPC: BloxstrapRPC;
