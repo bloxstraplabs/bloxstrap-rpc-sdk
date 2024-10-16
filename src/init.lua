@@ -70,4 +70,11 @@ function BloxstrapRPC.SetRichPresence(data: RichPresence)
 	BloxstrapRPC.SendMessage("SetRichPresence", data)
 end
 
+--[=[
+	Set the launch data used for invite deeplinks
+]=]
+function BloxstrapRPC.SetLaunchData(data: string)
+	BloxstrapRPC.SendMessage("SetLaunchData", data)
+end
+
 return BloxstrapRPC
